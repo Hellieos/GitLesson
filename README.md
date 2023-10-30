@@ -1,5 +1,5 @@
 # GitLesson
-GitLesson homework drill
+GitLesson homework drill (the links to the test cases, bug reports, and check list.
 Link 1. https://drive.google.com/drive/folders/1eVk16G1on3xdJomhLMqqV8jkqj91b2lj?usp=drive_link 
 Link 2. https://drive.google.com/drive/folders/1eTo7CgTUlHytwwRgqJyQ34oRoVR7KNew?usp=drive_link
 Link 3. https://docs.google.com/document/d/1boSCKoP2L8bto3Q8-Mpheo2q_EfJHLuJ/edit?usp=drive_link&ouid=116677212360096740194&rtpof=true&sd=true
